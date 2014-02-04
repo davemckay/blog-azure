@@ -1,4 +1,3 @@
-set :bundle_flags, "--no-deployment --quiet"
 require "bundler/capistrano"
 
 set :application, "blog_app"
